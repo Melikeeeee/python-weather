@@ -1,7 +1,0 @@
-.venv
-.env
-__paycache__
-Scripts
-Lib/site-packages
-pyvenv.cfg
-.git
